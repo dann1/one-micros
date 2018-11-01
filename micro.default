@@ -1,0 +1,13 @@
+#!/bin/bash
+
+export ONE_AUTH="$PWD/one_auth"
+export ONE_XMLRPC="http://10.0.0.2:2633/RPC2"
+export PATH=$PATH:/root/one-tools
+export INFRAUSER=dclavijo
+export LAN_ID=666
+
+export COMMIT=master
+export PACKAGES_COMMIT=$COMMIT
+
+export TEMPLATE=ubuntu1804
+export MICROENV=context-kvm

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source microenv-5.6.2
+export TEMPLATE=ubuntu1604
+
+./manual-microenv.sh
