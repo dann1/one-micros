@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source micro-5.6.2
+export MICROENV=context-lxd
+
+./manual-microenv.sh
