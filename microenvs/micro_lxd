@@ -2,5 +2,7 @@
 
 source micro-5.6.2
 export MICROENV=context-lxd
+export COMMIT=feature-1684
+export PACKAGES_COMMIT=$COMMIT
 
 ./manual-microenv.sh
