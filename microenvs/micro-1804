@@ -1,5 +1,5 @@
 #!/bin/bash
 
-source microenv-5.6.2
+source micro.default
 
 ./manual-microenv.sh
