@@ -1,8 +1,9 @@
 #!/bin/bash
 
-source micro-5.6.2
+source micro.default
+
 export MICROENV=context-lxd
-export COMMIT=feature-1684
-export PACKAGES_COMMIT=$COMMIT
+export COMMIT=feature-1684-fix
+export PACKAGES_COMMIT=feature-1684
 
 ./manual-microenv.sh
