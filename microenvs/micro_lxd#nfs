@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source micro_lxd
+export MICROENV=lxd-nfs
+
+./manual-microenv.sh

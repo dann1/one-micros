@@ -1,9 +1,6 @@
 #!/bin/bash
 
-source micro.default
-
-export MICROENV=context-lxd
-export COMMIT=feature-1684-fix
-export PACKAGES_COMMIT=feature-1684
+source micro-1804
+export MICROENV=lxd-ssh
 
 ./manual-microenv.sh
