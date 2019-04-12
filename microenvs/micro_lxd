@@ -1,6 +1,0 @@
-#!/bin/bash
-
-source micro-1804
-export MICROENV=lxd-ssh
-
-./manual-microenv.sh

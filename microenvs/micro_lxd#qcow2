@@ -1,6 +1,0 @@
-#!/bin/bash
-
-source micro_lxd
-export MICROENV=lxd-qcow2
-
-./manual-microenv.sh

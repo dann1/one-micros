@@ -1,0 +1,10 @@
+#!/bin/bash
+
+source micro.default
+
+export MICROENV=lxd-qcow2
+
+#export TEMPLATE=ubuntu1810
+#export TEMPLATE=ubuntu1604
+
+./manual-microenv.sh

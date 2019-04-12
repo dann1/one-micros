@@ -1,6 +1,0 @@
-#!/bin/bash
-
-source micro.default
-export TEMPLATE=ubuntu1604
-
-./manual-microenv.sh

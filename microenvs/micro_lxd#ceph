@@ -1,6 +1,0 @@
-#!/bin/bash
-
-source micro_lxd
-export MICROENV=lxd-ceph#luminous
-
-./manual-microenv.sh
