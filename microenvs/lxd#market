@@ -2,7 +2,7 @@
 
 source micro.default
 
-export MICROENV=lxd-market
+export MICROENV=lxd-marketplace
 
 #export TEMPLATE=ubuntu1810
 #export TEMPLATE=ubuntu1604
